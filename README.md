@@ -1,9 +1,9 @@
 # :sparkles: Hi there, I'm Moriel! :sparkles:
 :wave: **Welcome to my GitHub, nice to meet you!**
 
-:woman_technologist: 3rd Year Software Engineering Student.
-:open_book: I'm a passionate learner who's always willing to learn and work across technologies and domains.
-:bulb: Currently learning and growing my skillset at python, web-field and cake-baking :cake:
+:woman_technologist: 3rd Year Software Engineering Student. <br>
+:open_book: I'm a passionate learner who's always willing to learn and work across technologies and domains. <br>
+:bulb: Currently learning and growing my skillset at python, web-field and cake-baking :cake: <br>
 :computer: Looking for internship or student position.
 
 
