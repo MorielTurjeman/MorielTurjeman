@@ -14,7 +14,8 @@
 
 
 
-:earth_asia: contact me:
-:email: Moriel99@gmail.com <a href="https://www.linkedin.com/in/morielturjeman/">
+:earth_asia: contact me: <br>
+:email: Moriel99@gmail.com<br>
+<a href="https://www.linkedin.com/in/morielturjeman/">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
